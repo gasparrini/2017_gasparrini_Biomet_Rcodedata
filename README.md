@@ -1,5 +1,5 @@
 
-### Updated R code and data from Gasparrini Biomet 2017
+### A penalized version of distributed lag linear and non-linear models
 
 --------------------------------------------------------------------------------
 
