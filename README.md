@@ -5,7 +5,7 @@
 
 R code reproducing the results published in the article:
 
-Gasparrini A, Scheipl F, Armstrong B, and Kenward MG. A penalized framework for distributed lag non-linear models. Biometrics. 2017;73(3):938-948.[[freely available here](http://www.ag-myresearch.com/2017_gasparrini_biomet.html)]
+Gasparrini A, Scheipl F, Armstrong B, and Kenward MG. A penalized framework for distributed lag non-linear models. Biometrics. 2017;73(3):938-948. DOI: 10.1111/biom.12645. PMID: 28134978. [[freely available here](http://www.ag-myresearch.com/2017_gasparrini_biomet.html)]
 
 This methodological article describes the extension of distributed lag linear and non-linear models (DLMs and DLNMs) thorugh generalized additive models via penalized splines. The methodology is implemented by embedding functions in the R packages [dlnm](https://github.com/gasparrini/dlnm) and mgcv. The code reproduces two examples of application in time series and survival analysis, respectively, and the results of the simulation study.
 
